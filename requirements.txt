@@ -1,0 +1,20 @@
+# Core ML / DL
+torch==2.14.1+cu126
+torchvision==0.29.1+cu126
+torchaudio==2.11.0+cu126
+torchinfo==1.8.0
+
+# Data & ML utilities
+numpy==2.4.6
+scikit-learn==1.9.1
+scipy==1.17.1
+pillow==12.3.0
+
+# Visualization
+matplotlib==3.11.2
+
+# Dataset download
+kagglehub==1.0.2
+
+# Progress bar
+tqdm==4.70.1
